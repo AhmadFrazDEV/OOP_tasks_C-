@@ -1,0 +1,11 @@
+D:\S_2\PD\WEEK_9\TASK_1\bin\Debug\TASK_1.exe.config
+D:\S_2\PD\WEEK_9\TASK_1\bin\Debug\TASK_1.exe
+D:\S_2\PD\WEEK_9\TASK_1\bin\Debug\TASK_1.pdb
+D:\S_2\PD\WEEK_9\TASK_1\obj\Debug\TASK_1.csproj.AssemblyReference.cache
+D:\S_2\PD\WEEK_9\TASK_1\obj\Debug\TASK_1.Form1.resources
+D:\S_2\PD\WEEK_9\TASK_1\obj\Debug\TASK_1.Properties.Resources.resources
+D:\S_2\PD\WEEK_9\TASK_1\obj\Debug\TASK_1.csproj.GenerateResource.cache
+D:\S_2\PD\WEEK_9\TASK_1\obj\Debug\TASK_1.csproj.CoreCompileInputs.cache
+D:\S_2\PD\WEEK_9\TASK_1\obj\Debug\TASK_1.exe
+D:\S_2\PD\WEEK_9\TASK_1\obj\Debug\TASK_1.pdb
+D:\S_2\PD\WEEK_9\TASK_1\obj\Debug\TASK_1.PRODUCTS.resources

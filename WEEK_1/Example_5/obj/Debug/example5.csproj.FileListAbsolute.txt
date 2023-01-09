@@ -1,0 +1,6 @@
+D:\S_2\OOP_LAB\WEEK_1\example5\bin\Debug\example5.exe.config
+D:\S_2\OOP_LAB\WEEK_1\example5\bin\Debug\example5.exe
+D:\S_2\OOP_LAB\WEEK_1\example5\bin\Debug\example5.pdb
+D:\S_2\OOP_LAB\WEEK_1\example5\obj\Debug\example5.csproj.CoreCompileInputs.cache
+D:\S_2\OOP_LAB\WEEK_1\example5\obj\Debug\example5.exe
+D:\S_2\OOP_LAB\WEEK_1\example5\obj\Debug\example5.pdb

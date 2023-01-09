@@ -1,0 +1,7 @@
+D:\S_2\PD\WEEK_2\Version2\bin\Debug\Version2.exe.config
+D:\S_2\PD\WEEK_2\Version2\bin\Debug\Version2.exe
+D:\S_2\PD\WEEK_2\Version2\bin\Debug\Version2.pdb
+D:\S_2\PD\WEEK_2\Version2\obj\Debug\Version2.csproj.AssemblyReference.cache
+D:\S_2\PD\WEEK_2\Version2\obj\Debug\Version2.csproj.CoreCompileInputs.cache
+D:\S_2\PD\WEEK_2\Version2\obj\Debug\Version2.exe
+D:\S_2\PD\WEEK_2\Version2\obj\Debug\Version2.pdb

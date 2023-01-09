@@ -1,0 +1,14 @@
+D:\login\login\obj\Debug\netcoreapp3.1\login.csproj.AssemblyReference.cache
+D:\login\login\obj\Debug\netcoreapp3.1\login.GeneratedMSBuildEditorConfig.editorconfig
+D:\login\login\obj\Debug\netcoreapp3.1\login.AssemblyInfoInputs.cache
+D:\login\login\obj\Debug\netcoreapp3.1\login.AssemblyInfo.cs
+D:\login\login\obj\Debug\netcoreapp3.1\login.csproj.CoreCompileInputs.cache
+D:\login\login\bin\Debug\netcoreapp3.1\login.exe
+D:\login\login\bin\Debug\netcoreapp3.1\login.deps.json
+D:\login\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.json
+D:\login\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.dev.json
+D:\login\login\bin\Debug\netcoreapp3.1\login.dll
+D:\login\login\bin\Debug\netcoreapp3.1\login.pdb
+D:\login\login\obj\Debug\netcoreapp3.1\login.dll
+D:\login\login\obj\Debug\netcoreapp3.1\login.pdb
+D:\login\login\obj\Debug\netcoreapp3.1\login.genruntimeconfig.cache

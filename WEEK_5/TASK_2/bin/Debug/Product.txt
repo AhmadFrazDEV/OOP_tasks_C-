@@ -1,0 +1,5 @@
+steak,furit,300,10
+chai,OTHER,30,40
+banana,FURIT,30,60
+mango,FURIT,300,20
+mobile,OTHER,15000,2

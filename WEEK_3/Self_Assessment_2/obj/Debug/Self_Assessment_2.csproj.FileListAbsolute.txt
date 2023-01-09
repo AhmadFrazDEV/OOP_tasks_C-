@@ -1,0 +1,6 @@
+D:\S_2\OOP_LAB\WEEK_3\Self_Assessment_2\bin\Debug\Self_Assessment_2.exe.config
+D:\S_2\OOP_LAB\WEEK_3\Self_Assessment_2\bin\Debug\Self_Assessment_2.exe
+D:\S_2\OOP_LAB\WEEK_3\Self_Assessment_2\bin\Debug\Self_Assessment_2.pdb
+D:\S_2\OOP_LAB\WEEK_3\Self_Assessment_2\obj\Debug\Self_Assessment_2.csproj.CoreCompileInputs.cache
+D:\S_2\OOP_LAB\WEEK_3\Self_Assessment_2\obj\Debug\Self_Assessment_2.exe
+D:\S_2\OOP_LAB\WEEK_3\Self_Assessment_2\obj\Debug\Self_Assessment_2.pdb

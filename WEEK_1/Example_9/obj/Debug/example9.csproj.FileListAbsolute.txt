@@ -1,0 +1,6 @@
+C:\Users\Hussain Iftikhar\source\repos\example9\bin\Debug\example9.exe.config
+C:\Users\Hussain Iftikhar\source\repos\example9\bin\Debug\example9.exe
+C:\Users\Hussain Iftikhar\source\repos\example9\bin\Debug\example9.pdb
+C:\Users\Hussain Iftikhar\source\repos\example9\obj\Debug\example9.csproj.CoreCompileInputs.cache
+C:\Users\Hussain Iftikhar\source\repos\example9\obj\Debug\example9.exe
+C:\Users\Hussain Iftikhar\source\repos\example9\obj\Debug\example9.pdb

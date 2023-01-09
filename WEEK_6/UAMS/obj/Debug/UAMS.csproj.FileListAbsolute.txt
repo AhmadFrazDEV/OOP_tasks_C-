@@ -1,0 +1,7 @@
+D:\S_2\OOP_LAB\WEEK_6\UAMS\bin\Debug\UAMS.exe.config
+D:\S_2\OOP_LAB\WEEK_6\UAMS\bin\Debug\UAMS.exe
+D:\S_2\OOP_LAB\WEEK_6\UAMS\bin\Debug\UAMS.pdb
+D:\S_2\OOP_LAB\WEEK_6\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\S_2\OOP_LAB\WEEK_6\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\S_2\OOP_LAB\WEEK_6\UAMS\obj\Debug\UAMS.exe
+D:\S_2\OOP_LAB\WEEK_6\UAMS\obj\Debug\UAMS.pdb

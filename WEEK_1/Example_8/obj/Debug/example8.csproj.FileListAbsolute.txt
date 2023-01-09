@@ -1,0 +1,7 @@
+C:\Users\Hussain Iftikhar\source\repos\example8\bin\Debug\example8.exe.config
+C:\Users\Hussain Iftikhar\source\repos\example8\bin\Debug\example8.exe
+C:\Users\Hussain Iftikhar\source\repos\example8\bin\Debug\example8.pdb
+C:\Users\Hussain Iftikhar\source\repos\example8\obj\Debug\example8.csproj.AssemblyReference.cache
+C:\Users\Hussain Iftikhar\source\repos\example8\obj\Debug\example8.csproj.CoreCompileInputs.cache
+C:\Users\Hussain Iftikhar\source\repos\example8\obj\Debug\example8.exe
+C:\Users\Hussain Iftikhar\source\repos\example8\obj\Debug\example8.pdb

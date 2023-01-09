@@ -1,0 +1,6 @@
+D:\S_2\OOP_LAB\WEEK_3\SA_1\bin\Debug\SA_1.exe.config
+D:\S_2\OOP_LAB\WEEK_3\SA_1\bin\Debug\SA_1.exe
+D:\S_2\OOP_LAB\WEEK_3\SA_1\bin\Debug\SA_1.pdb
+D:\S_2\OOP_LAB\WEEK_3\SA_1\obj\Debug\SA_1.csproj.CoreCompileInputs.cache
+D:\S_2\OOP_LAB\WEEK_3\SA_1\obj\Debug\SA_1.exe
+D:\S_2\OOP_LAB\WEEK_3\SA_1\obj\Debug\SA_1.pdb
